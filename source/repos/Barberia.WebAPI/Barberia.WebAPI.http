@@ -1,6 +1,0 @@
-@Barberia.WebAPI_HostAddress = http://localhost:5088
-
-GET {{Barberia.WebAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
