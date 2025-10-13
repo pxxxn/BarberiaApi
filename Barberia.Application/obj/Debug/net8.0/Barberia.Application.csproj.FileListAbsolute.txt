@@ -1,0 +1,15 @@
+C:\Users\Carlos Dimas\source\repos\Barberia.Application\bin\Debug\net8.0\Barberia.Application.deps.json
+C:\Users\Carlos Dimas\source\repos\Barberia.Application\bin\Debug\net8.0\Barberia.Application.dll
+C:\Users\Carlos Dimas\source\repos\Barberia.Application\bin\Debug\net8.0\Barberia.Application.pdb
+C:\Users\Carlos Dimas\source\repos\Barberia.Application\bin\Debug\net8.0\Barberia.Domain.dll
+C:\Users\Carlos Dimas\source\repos\Barberia.Application\bin\Debug\net8.0\Barberia.Domain.pdb
+C:\Users\Carlos Dimas\source\repos\Barberia.Application\obj\Debug\net8.0\Barberia.Application.csproj.AssemblyReference.cache
+C:\Users\Carlos Dimas\source\repos\Barberia.Application\obj\Debug\net8.0\Barberia.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Dimas\source\repos\Barberia.Application\obj\Debug\net8.0\Barberia.Application.AssemblyInfoInputs.cache
+C:\Users\Carlos Dimas\source\repos\Barberia.Application\obj\Debug\net8.0\Barberia.Application.AssemblyInfo.cs
+C:\Users\Carlos Dimas\source\repos\Barberia.Application\obj\Debug\net8.0\Barberia.Application.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Dimas\source\repos\Barberia.Application\obj\Debug\net8.0\Barberia.F56CE701.Up2Date
+C:\Users\Carlos Dimas\source\repos\Barberia.Application\obj\Debug\net8.0\Barberia.Application.dll
+C:\Users\Carlos Dimas\source\repos\Barberia.Application\obj\Debug\net8.0\refint\Barberia.Application.dll
+C:\Users\Carlos Dimas\source\repos\Barberia.Application\obj\Debug\net8.0\Barberia.Application.pdb
+C:\Users\Carlos Dimas\source\repos\Barberia.Application\obj\Debug\net8.0\ref\Barberia.Application.dll
