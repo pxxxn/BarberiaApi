@@ -9,3 +9,15 @@ C:\Users\Carlos Dimas\source\repos\Barberia.Domain\obj\Debug\net8.0\Barberia.Dom
 C:\Users\Carlos Dimas\source\repos\Barberia.Domain\obj\Debug\net8.0\refint\Barberia.Domain.dll
 C:\Users\Carlos Dimas\source\repos\Barberia.Domain\obj\Debug\net8.0\Barberia.Domain.pdb
 C:\Users\Carlos Dimas\source\repos\Barberia.Domain\obj\Debug\net8.0\ref\Barberia.Domain.dll
+C:\Users\Carlos Dimas\source\repos\BarberiaApi\Barberia.Domain\bin\Debug\net8.0\Barberia.Domain.deps.json
+C:\Users\Carlos Dimas\source\repos\BarberiaApi\Barberia.Domain\bin\Debug\net8.0\Barberia.Domain.dll
+C:\Users\Carlos Dimas\source\repos\BarberiaApi\Barberia.Domain\bin\Debug\net8.0\Barberia.Domain.pdb
+C:\Users\Carlos Dimas\source\repos\BarberiaApi\Barberia.Domain\obj\Debug\net8.0\Barberia.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Dimas\source\repos\BarberiaApi\Barberia.Domain\obj\Debug\net8.0\Barberia.Domain.AssemblyInfoInputs.cache
+C:\Users\Carlos Dimas\source\repos\BarberiaApi\Barberia.Domain\obj\Debug\net8.0\Barberia.Domain.AssemblyInfo.cs
+C:\Users\Carlos Dimas\source\repos\BarberiaApi\Barberia.Domain\obj\Debug\net8.0\Barberia.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Dimas\source\repos\BarberiaApi\Barberia.Domain\obj\Debug\net8.0\Barberia.Domain.sourcelink.json
+C:\Users\Carlos Dimas\source\repos\BarberiaApi\Barberia.Domain\obj\Debug\net8.0\Barberia.Domain.dll
+C:\Users\Carlos Dimas\source\repos\BarberiaApi\Barberia.Domain\obj\Debug\net8.0\refint\Barberia.Domain.dll
+C:\Users\Carlos Dimas\source\repos\BarberiaApi\Barberia.Domain\obj\Debug\net8.0\Barberia.Domain.pdb
+C:\Users\Carlos Dimas\source\repos\BarberiaApi\Barberia.Domain\obj\Debug\net8.0\ref\Barberia.Domain.dll

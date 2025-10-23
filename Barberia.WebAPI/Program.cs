@@ -6,15 +6,16 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// 🔗 Conexión SQL Server
 builder.Services.AddDbContext<BarberiaDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("BarberiaConnection")));
 
-// 🧩 Inyección de dependencias
+
 builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
 builder.Services.AddScoped<IUsuarioService, UsuarioService>();
 
-// 🌐 Habilitar CORS para permitir peticiones desde cualquier origen
+builder.Services.AddScoped<IEmpleadoService, EmpleadoService>();
+builder.Services.AddScoped<IEmpleadoRepository, EmpleadoRepository>();
+
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAll", policy =>
@@ -29,7 +30,7 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-// 🌐 Activar CORS antes de la autorización
+
 app.UseCors("AllowAll");
 
 if (app.Environment.IsDevelopment())
